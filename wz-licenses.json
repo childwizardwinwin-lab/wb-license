@@ -1,4 +1,4 @@
 {
- "raw": "{\"revoke\":[\"L-0014\",\"L-0018\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false,\"updated\":\"2026-09-21 22:18:12\"}",
- "sig": "Vheoxfn0iQOfhLLVrZQdwWJRsOWMeCM55qdesDYyPgOc2pskmRckxIWNpObAH66HpTrlbL7wpL2dwslxMEuyvA"
+ "raw": "{\"revoke\":[\"L-0014\",\"L-0018\",\"L-0019\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false,\"updated\":\"2026-09-21 22:18:45\"}",
+ "sig": "Z81BPXMkwMEzK3niyQCt_-RZ1MTZtPUIaH78WEJrJN9Bjz2N9jxr85zqHQLiCvj6nZexRYtK_0EdxMDr7QM6IA"
 }
