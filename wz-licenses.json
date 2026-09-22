@@ -1,4 +1,4 @@
 {
- "raw": "{\"revoke\":[\"L-0014\",\"L-0017\",\"L-0018\",\"L-0019\",\"L-0020\",\"L-0022\",\"L-0023\",\"L-0024\",\"L-0025\",\"L-0026\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false,\"updated\":\"2026-09-22 22:48:19\"}",
- "sig": "a_hT7NLxtMvOU3fboiGfV2eOVDhv-lxPwJ9GWD35LqtmZV1otv6w1G0xcsgXwe5XkIRwzHZ60MpFAovGjpOKfg"
+ "raw": "{\"revoke\":[\"L-0014\",\"L-0017\",\"L-0018\",\"L-0019\",\"L-0020\",\"L-0022\",\"L-0023\",\"L-0024\",\"L-0025\",\"L-0026\",\"L-0029\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false,\"updated\":\"2026-09-23 02:13:09\"}",
+ "sig": "gbnSPPxw4DYZCSExyyt5JwO4YjbhbrYvHPwwtgxoalP-K4_JBAHFqlAAwzSZNP1pH0cRZGLsn27L2csUC2erIQ"
 }
