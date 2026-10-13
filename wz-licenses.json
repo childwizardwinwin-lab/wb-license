@@ -1,4 +1,4 @@
 {
- "raw": "{\"revoke\":[\"AD7N-WSYE-01\",\"DWDXNX8YDJ\",\"EBVE-FVAX-2G\",\"L-0063\",\"XYZQ-BTK7-WC\",\"Y9QF-5MHX-F4\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false,\"updated\":\"2026-10-14 01:09:39\"}",
- "sig": "yhJEeysEIdt2n7qeeBgyUrQ9GXgtjz2vAssTDLLEz1zBweEJhOeaB0FqNgNs1nsImqNpBLjxbF7sVxjWG5zd9g"
+ "raw": "{\"revoke\":[\"AD7N-WSYE-01\",\"DWDXNX8YDJ\",\"EBVE-FVAX-2G\",\"L-0004\",\"L-0063\",\"XYZQ-BTK7-WC\",\"Y9QF-5MHX-F4\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false,\"updated\":\"2026-10-14 01:35:44\"}",
+ "sig": "ninzDBC1rh5GQ-6u33U4IncH9-IhfBPWFypIgdI6s54wR82Gz_4fy6jiSBG7ldms_nTtQ1-D6gpE27vW1SgYZA"
 }
