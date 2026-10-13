@@ -1,1 +1,1 @@
-{"raw": "{\"revoke\":[\"L-0004\",\"L-0005\",\"L-0059\",\"L-0060\",\"L-0063\",\"L-0064\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false}", "sig": "BzMocGb7rwuqQRbcq28iGtpjQ7OF0ZF8OtRx2V5BY-6g8P50D_VdjHXQBAxpkUUHYGl95RLOOFQFY-9UHByMHA"}
+{"raw": "{\"revoke\":[\"L-0004\",\"L-0005\",\"L-0059\",\"L-0060\",\"L-0063\",\"L-0064\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":true}", "sig": "N4SLLxrE4Z3LiLWZ1E32KgKirRBxS0cPIbr9-t78fyqM9JBN_hK0-oWcUPYckpcFovOSx_z6g56yCTqraV30Gg"}
