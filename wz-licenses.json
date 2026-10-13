@@ -1,4 +1,1 @@
-{
- "raw": "{\"revoke\":[\"AD7N-WSYE-01\",\"DWDXNX8YDJ\",\"EBVE-FVAX-2G\",\"L-0004\",\"L-0005\",\"L-0059\",\"L-0060\",\"L-0063\",\"L-0064\",\"XYZQ-BTK7-WC\",\"Y9QF-5MHX-F4\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false,\"updated\":\"2026-10-14 02:18:20\"}",
- "sig": "diDFATrA9M-wNue340I0moY_J7DQbMdi40Mjj13np7Su2YRQo7LCHJtX5tTF3Gy_7WXZRKQK9UJGeBEHbohplQ"
-}
+{"raw": "{\"revoke\":[\"L-0004\",\"L-0005\",\"L-0059\",\"L-0060\",\"L-0063\",\"L-0064\"],\"killBelow\":\"\",\"untilOverride\":{},\"revokedAll\":false}", "sig": "BzMocGb7rwuqQRbcq28iGtpjQ7OF0ZF8OtRx2V5BY-6g8P50D_VdjHXQBAxpkUUHYGl95RLOOFQFY-9UHByMHA"}
